@@ -14,7 +14,10 @@ const RecipeEngine = () => {
       <br></br>
       <h5>
         Link:
-        <a href="https://waterpoloclub.herokuapp.com" className="waterclublink">
+        <a
+          href="https://receipes-engine.netlify.app/"
+          className="waterclublink"
+        >
           https://receipes-engine.netlify.app
         </a>
       </h5>
