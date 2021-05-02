@@ -1,0 +1,52 @@
+.waterclublink {
+  color: hsl(0, 0%, 15%);
+}
+
+.waterpolo {
+  width: 80%;
+  margin: auto;
+}
+
+.waterpoloclub_title {
+  border-bottom: solid 2px;
+  width: 400px;
+  margin: auto;
+}
+
+.waterpolo-into {
+  padding-top: 30px;
+}
+
+.waterpolo-into-cont {
+  text-align: left;
+  padding-top: 30px;
+  font-size: 1.1rem;
+}
+
+.waterpolo-into-pic {
+  width: 85%;
+  height: 100%;
+}
+
+.feature {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.backend {
+  padding-bottom: 30px;
+}
+
+.backend-image-class {
+  margin: auto;
+}
+
+.backend-image {
+  width: 70%;
+  height: 100%;
+}
+
+.backend-text {
+  width: 60%;
+  margin: auto;
+}

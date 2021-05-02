@@ -1,0 +1,23 @@
+.homepage {
+  width: 80%;
+  margin: auto;
+  margin-bottom: 100px;
+}
+
+.about-inf {
+  width: 60%;
+  margin: auto;
+}
+
+.about {
+  margin-bottom: 40px;
+}
+
+.skill-item {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.github {
+  color: hsl(0, 0%, 15%);
+}

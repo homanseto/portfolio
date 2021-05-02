@@ -1,0 +1,25 @@
+.portfolio-navbar {
+  background-color: #00adb5;
+}
+.portfolio-name {
+  border-bottom: solid 2px;
+  width: 50%;
+  margin: auto;
+  padding-top: 40px;
+  margin-bottom: 40px;
+}
+
+.navber-list {
+  width: 50%;
+  margin: auto;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+
+.nav-button {
+  width: 33.3%;
+}
+
+.navber-list a {
+  color: hsl(0, 0%, 15%);
+}
