@@ -9,23 +9,25 @@ import RecipeEngine from './components/RecipeEngine/RecipeEngine';
 function App() {
   return (
     <div className="App">
-      <Navbar />
-      <Switch>
-        <Route
-          path="/"
-          exact
-          default
-          component={(props) => <HomePage {...props} />}
-        />
-        <Route
-          path="/waterpoloclub"
-          component={(props) => <WaterPoloClub {...props} />}
-        />
-        <Route
-          path="/recipeengine"
-          component={(props) => <RecipeEngine {...props} />}
-        />
-      </Switch>
+      <div className="content-wrap">
+        <Navbar />
+        <Switch>
+          <Route
+            path="/"
+            exact
+            default
+            component={(props) => <HomePage {...props} />}
+          />
+          <Route
+            path="/waterpoloclub"
+            component={(props) => <WaterPoloClub {...props} />}
+          />
+          <Route
+            path="/recipeengine"
+            component={(props) => <RecipeEngine {...props} />}
+          />
+        </Switch>
+      </div>
       <Footer />
     </div>
   );

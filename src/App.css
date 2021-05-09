@@ -1,0 +1,8 @@
+.App {
+  position: relative;
+  min-height: 100%;
+}
+
+.content-wrap {
+  padding-bottom: 5rem;
+}
